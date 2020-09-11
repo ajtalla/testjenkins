@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dead simple, boiler plate getting started Java app with maven
 Skeleton Java project with a vanilla maven file with minimal options to get you started.
 
@@ -16,3 +17,6 @@ This project contains a gitignore that will stop most IDE specific files as well
 * Select "Build on Make" checkbox
 * Make sure the manifest is selected
 * Right-click your *.jar inside output layout. Select Add a Copy of -> Module Output
+=======
+# testjenkins
+>>>>>>> 24323df95ddb8b49ebe94c0817d629c41b8296ee
